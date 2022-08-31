@@ -62,7 +62,8 @@ Now, we want one more filter __"cigar shape"__ with state __“nj”__ and date 
 ![calendar](https://user-images.githubusercontent.com/107717882/187779779-453eb25f-e48e-4e87-9f9a-7151cca7865d.png)
 
   
-  2.	User has to erase filter each time to get back original data; there should be a __“CLEAR”__ button to clear all filters. 
+  2.	User has to erase filter each time to get back original data; there should be a __“CLEAR”__ button to clear all filters. We can achieve same with __reset               button__ and using  __addEventListener()__ in Javascript using function to get back original table. 
+
   3.	It would be easy for user if city, state , country and shapes provide options to select. 
 
 
