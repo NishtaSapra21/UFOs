@@ -10,7 +10,7 @@ This analysis of UFO sighting allows user to filter for multiple criteria like d
 
 Let’s have a look how HTML and JavaScript work together for this multiple filter criteria. 
 
-  1.	The __index.html__ file contains all CSS and JavaScript files locations within __<link rel=”stylesheet” />__ and __<script src=”path to js file”></script>__           tags. There are also a link to Bootstrap's content delivery network (CDN) and  a link to a D3.js CDN.
+  1.	The __index.html__ file contains all CSS and JavaScript files locations within __<link rel=”stylesheet” />__ and __<script src=”path to js file”></script>__           tags. There are also a link to __Bootstrap's content delivery network (CDN)__ and  a link to a __D3.js CDN__.
   
   2.	The __data.js__ file contains all the data about UFOs. 
   
